@@ -1,3 +1,12 @@
 __cache__
 
 __pycache__
+
+# Local market data and generated run artifacts
+/data/
+/outputs/
+/models/
+
+# Dashboard build/dependencies
+/dashboard/node_modules/
+/dashboard/dist/

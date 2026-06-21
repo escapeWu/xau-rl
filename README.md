@@ -1,6 +1,7 @@
 # XAUUSD M1 → RL-ready feature + bracket-trading pipeline
 
 中文使用说明：[`docs/USAGE_ZH.md`](docs/USAGE_ZH.md)
+本地训练结果看板：[`docs/reference/dashboard.md`](docs/reference/dashboard.md)
 
 This project is built for MT4/MT5-style XAUUSD minute data such as:
 

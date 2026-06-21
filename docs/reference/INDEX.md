@@ -11,6 +11,7 @@
 | [`architecture.md`](architecture.md) | 项目层次、模块边界、数据流和 owner map |
 | [`interfaces.md`](interfaces.md) | 数据输入、配置、报告、trade/equity、模型产物契约 |
 | [`runbook-testing.md`](runbook-testing.md) | 安装、doctor、pipeline、训练、可视化和 holdout 验证步骤 |
+| [`dashboard.md`](dashboard.md) | 本地 React/Tailwind 看板、API 和产物浏览说明 |
 | [`project-memory.md`](project-memory.md) | 跨模块长期记忆、稳定研究立场和已废弃路径 |
 
 ## Reading Rule
